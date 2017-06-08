@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Bootstrap 3 Autocomplete",
+		"ChineseLocalizations",
+		"ColorPicker",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"GBK Support",
+		"Git",
+		"HTML5",
+		"JsFormat",
+		"LESS",
+		"lessc",
+		"Markdown Preview",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeTmpl"
+	]
+}
