@@ -15,15 +15,20 @@
 		"GBK Support",
 		"Git",
 		"HTML5",
+		"jQuery",
 		"JsFormat",
 		"LESS",
 		"lessc",
 		"Markdown Preview",
 		"Package Control",
+		"Pug",
 		"Sass",
 		"SASS Build",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeREPL",
 		"SublimeTmpl"
 	]
 }
